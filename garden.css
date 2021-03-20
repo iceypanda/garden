@@ -93,6 +93,8 @@ ul.plant-info li ul li {
 
 img {
   margin: 0 10px;
+  max-width: 95vw;
+  max-height: 95vh;
 }
 
 
