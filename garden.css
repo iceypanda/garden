@@ -20,7 +20,7 @@ h1 {
 h2 {
     font-size: 1.7rem;
     color: black;
-    padding: 0 0 10px 10px;
+    padding: 10px 0 10px 10px;
     margin-top: 2rem;
 }
 
@@ -101,6 +101,23 @@ img {
     margin: 0 10px;
     max-width: 95vw;
     max-height: 95vh;
+}
+
+/* Seasons */
+.season-spring {
+    background-color: #dde8cb;
+}
+
+.season-summer {
+    background-color: #ffffa6;
+}
+
+.season-autumn {
+    background-color: #ffdbb6;
+}
+
+.season-winter {
+    background-color: #dee6ef;
 }
 
 /* Bootstrap */
