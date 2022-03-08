@@ -66,6 +66,21 @@ em {
     color: #0E7003;
 }
 
+input[type="checkbox"] {
+    transform: scale(1.6);
+    margin-right: 10px;
+    top: -4px;
+    position: relative;
+}
+
+ul.no-dots {
+    list-style-type: none;
+}
+
+ul.no-dots li {
+    margin-left: 22px;
+}
+
 /* index */
 .index li {
     list-style: none;
