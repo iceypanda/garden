@@ -1,0 +1,86 @@
+body {
+    font-size: 140%;
+    color: #333;
+    padding: 10px;
+}
+
+* {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 2.1rem;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.7rem;
+    color: black;
+    padding: 10px 0 10px 5px;
+    margin-top: 2rem;
+}
+
+h3 {
+    font-size: 1.35rem;
+    color: black;
+    padding: 10px 5px;
+}
+
+p {
+    padding: 10px;
+}
+
+td, th {
+    padding: 2px 5px;
+    vertical-align: top;
+}
+
+hr {
+    margin: 5x 0px;
+    background: #999;
+    height: 2px;
+    border: none;
+}
+
+/* Table */
+tr td:nth-child(2) {
+    text-align: center;
+    min-width: 60px;
+}
+
+td.subheading {
+    text-align: left;
+    border-bottom: 2px solid #aaa;
+    padding-top: 1rem;
+    font-weight: bold;
+}
+
+.text-left {
+    text-align: left;
+}
+
+/* Bootstrap */
+
+.mt-1 {
+    margin-top: 0.25rem;
+}
+
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+.mt-3 {
+    margin-top: 1rem !important;
+}
+
+.mt-4 {
+    margin-top: 1.5rem ! important;
+}
+
+.mt-5 {
+    margin-top: 3rem !important;
+}
