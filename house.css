@@ -46,6 +46,12 @@ td, th {
     vertical-align: top;
 }
 
+img {
+    margin: 0 10px;
+    max-width: 95vw;
+    max-height: 95vh;
+}
+
 hr {
     margin: 5x 0px;
     background: #999;
