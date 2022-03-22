@@ -30,10 +30,17 @@ h3 {
     padding: 10px 5px;
 }
 
-ol li,
 ul li {
     margin: 0 0 0 27px;
     padding: 5px 0;
+}
+
+ol li {
+    margin: 0 0 0 35px;
+    padding: 5px 0;
+}
+
+ul li {
     list-style-type: disc;
 }
 
