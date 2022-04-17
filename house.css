@@ -52,7 +52,8 @@ table {
     border-collapse: collapse;
 }
 
-td, th {
+td,
+th {
     padding: 2px 5px;
     vertical-align: top;
     border: 1px solid #ddd;
@@ -94,6 +95,14 @@ td.subheading {
     border-bottom: 2px solid #ddd;
     padding-top: 1rem;
     font-weight: bold;
+}
+
+.cleaned {
+    background-color: #a1d7a1;
+}
+
+.todo {
+    background-color: rgb(243, 208, 143);
 }
 
 /* Bootstrap */
