@@ -101,6 +101,10 @@ td.subheading {
     background-color: #a1d7a1;
 }
 
+.no-clean-needed {
+    background-color: #a1d1d7;
+}
+
 .todo {
     background-color: rgb(243, 208, 143);
 }
